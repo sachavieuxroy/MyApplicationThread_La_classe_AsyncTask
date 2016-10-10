@@ -2,4 +2,5 @@
     <string name="app_name">My ApplicationThread</string>
     <string name="blockUiThread">Blocker</string>
     <string name="secondBtn">button</string>
+    <string name="launch_async">Launch Async</string>
 </resources>
